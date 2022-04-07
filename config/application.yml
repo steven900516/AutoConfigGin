@@ -1,0 +1,8 @@
+app:
+  host: localhost
+  port: 8787
+
+db:
+  name: gin
+  username: root
+  password: tw900516
