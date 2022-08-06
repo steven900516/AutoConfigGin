@@ -5,4 +5,4 @@ app:
 db:
   name: gin
   username: root
-  password: tw900516
+  password: *****
